@@ -1,0 +1,6 @@
+owner=470295383415980032
+prefix=$
+game=Gamers Bot| $help
+stayinchannel=true
+songinstatus=false
+token=NTQwMTQyMTQwMDk3OTUzODA0.DzMmUQ.ZtrU5N6pGSBbAYmi22x3BSs3gFk
